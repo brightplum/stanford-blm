@@ -1,0 +1,50 @@
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="js/vendors.js"></script>
+<!-- Theme Scripts -->
+<script src="js/scripts.js"></script>
+<!-- Theme Custom Scripts -->
+<script src="js/custom.js"></script>
+<script src="js/swiper.min.js"></script>
+<script>
+    $('.js-search-dropdown-toggle').on('click', function () {
+        $('.atbs-search-full').toggleClass('On');
+    });
+    $('#atbs-search-remove').on('click', function () {
+        $('.atbs-search-full').removeClass('On');
+    });
+    base_url = 'home.html';
+    logo = 'img/logo_03.png';
+    $("<li class=\"logo\"><a href=\"" + base_url + "\"><img src=\"" + logo + "\" class=\"img-fluid\"></a></li>").insertBefore(".site-header .navigation-bar .navigation--main>li:eq(2)");
+
+    // Can also be used with $(document).ready()
+    $(document).ready(function () {
+        var $sliderItemTotal = $(".slider-item-total"),
+            $sliderItemCurrent = $(".slider-item-current");
+        $(".pause-featured-slider").flexslider({
+            animation: "fade",
+            touch: true,
+            controlNav: false,
+            directionNav: true,
+            animationLoop: true,
+            slideshow: true,
+            pauseOnHover: true,
+            slideshowSpeed: 5000,
+            animationSpeed: 100,
+            start: function (item) {
+                slideCounter(item);
+            },
+            after: function (item) {
+                slideCounter(item);
+            }
+            // animationLoop: false
+        });
+        function slideCounter(item) {
+            $sliderItemCurrent.text(item.currentSlide + 1);
+            $sliderItemTotal.text(item.count);
+            var backgroundImg = $('.pause-featured-slider').find(".slide__item.flex-active-slide").find(".background-img").attr('data-image');
+            $('#slider-demo').css({
+                'background-image': 'url(' + backgroundImg + ')'
+            });
+        }
+    });
+</script>
