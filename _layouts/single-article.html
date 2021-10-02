@@ -1,6 +1,9 @@
 ---
 layout: single
+title: articles
+baseurl: /stanford-blm
 ---
+{% for post in site.posts %}
 <article class="post--single post--vertical" style="transform: none;">
     <div class=" single-entry-thumb post__thumb">
         <div class="background-img" style="background: url('img/student-reading.jpeg');"></div>
@@ -29,5 +32,5 @@ layout: single
             </div>
         </footer>
     </div>
-    <!-- .single-content -->
 </article>
+{% endfor %}

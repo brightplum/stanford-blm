@@ -1,25 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-{% include head.html %}
-
-<body>
-    <!-- Site wrapper -->
-    <div class="site-wrapper">
-        {% include header.html %}
-        <div class="site-content">
-            {{ content }}
-        </div>
-        {% include footer.html %}
-        <div id="atbs-sticky-header" class="sticky-header js-sticky-header">
-            {% include bottom-nav.html %}
-        </div>
-        {% include bottom-bar.html %}
-        <a href="#" class="atbs-go-top btn btn-default hidden-xs js-go-top-el"><i
-                class="mdicon mdicon-arrow_upward"></i></a>
-        {% include search-full.html %}
-    </div>
-    {% include theme-scripts.html %}
-</body>
-
-</html>
+---
+layout: default
+baseurl: /stanford-blm
+---
+{% include home-main.html %}
+{% include home-latest-news.html %}

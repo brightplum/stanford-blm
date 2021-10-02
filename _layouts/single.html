@@ -1,44 +1,21 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
-{% include head.html %}
-
-<body class="home single single-1">
-    <!-- Site wrapper -->
-    <div class="site-wrapper">
-        {% include header.html %}
-        <div class="site-content">
-            <div class="atbs-block atbs-block--fullwidth">
-                <div class="container">
-                    <div class="row">
-                        <div class="atbs-main-col">
-                            <div class="atbs-block post post-single">
-                                <div class="post-single__inner">
-                                    {{content}}
-                                    {% include article-author.html %}
-                                    {% include article-comments.html %}
-                                </div>
-                            </div>
-                            {% include article-related.html %}
-                        </div>
-                        {% include article-sidebar.html %}
+---
+layout: default
+baseurl: /stanford-blm/
+---
+<div class="atbs-block atbs-block--fullwidth">
+    <div class="container">
+        <div class="row">
+            <div class="atbs-main-col">
+                <div class="atbs-block post post-single">
+                    <div class="post-single__inner">
+                        {{content}}
+                        {% include article-author.html %}
+                        {% include article-comments.html %}
                     </div>
                 </div>
+                {% include article-related.html %}
             </div>
+            {% include article-sidebar.html %}
         </div>
-        {% include footer.html %}
-
-
-        <div id="atbs-sticky-header" class="sticky-header js-sticky-header">
-            {% include bottom-nav.html %}
-        </div>
-        {% include bottom-bar.html %}
-        <a href="#" class="atbs-go-top btn btn-default hidden-xs js-go-top-el"><i
-                class="mdicon mdicon-arrow_upward"></i></a>
-        {% include search-full.html %}
     </div>
-
-    {% include theme-scripts.html %}
-</body>
-
-</html>
+</div>
