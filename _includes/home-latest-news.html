@@ -9,27 +9,26 @@
             <div class="atbs-main-col">
                 <div class="atbs-block atbs-posts-list post-separate-md">
                     <div class="list-item row row--space-between grid-gutter-30 posts-list">
-                        {% for post in site.posts %}
+                        {% for post in site.posts reversed limit: 4 %}
                         <div class="col-sm-6 list-item">
                             <article class="post post--vertical small-post--vertical height-md">
                                 <div class="post__thumb">
                                     <div class="background-img"
                                         style="background-image: url('http://via.placeholder.com/1920x1080');">
                                     </div>
-                                    <a class="link-overlay" href="/stanford-blm/{{ post.url }}"></a>
+                                    <a class="link-overlay" href="./{{ post.url }}"></a>
                                     <a class="post__cat cat-theme cat-theme-2 text-top-left"
-                                        href="/stanford-blm/{{ post.url }}">BLM</a>
+                                        href="./{{ post.url }}">BLM</a>
                                 </div>
                                 <div class="post__text">
                                     <h3 class="post__title typescale-3">
-                                        <a href="/stanford-blm/{{ post.url }}">{{ post.title }}</a>
+                                        <a href="./{{ post.url }}">{{ post.title }}</a>
                                     </h3>
                                     <div class="post__excerpt">
                                         {{ post.excerpt }}
                                     </div>
                                     <div class="post__readmore text-right clearfix">
-                                        <a href="/stanford-blm/{{ post.url }}"
-                                            class="button__readmore flexbox flexbox--middle">
+                                        <a href="./{{ post.url }}" class="button__readmore flexbox flexbox--middle">
                                             read more <span class="icon-post"><i
                                                     class="mdicon mdicon-arrow-right"></i></span>
                                         </a>
