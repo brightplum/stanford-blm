@@ -3,6 +3,7 @@ layout: post
 title:  "Black Lives Matter: Black at Stanford anthology"
 date:   2021-07-16 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/student-reading.jpeg
 ---
 Stanford University has its own rich history of Black activism and community, from the first Black student to graduate from Stanford in 1895, Ernest Houston <!--more--> Johnson, to the most recent activism over the past year. The Black Community Services Center, in collaboration with the Stanford Archives, have created [Black at Stanford: An Anthology of Black Activism and Community at Stanford][anthology] that features oral histories, photographs, posters, performance recordings, and more. We committed to one year of Black Lives Matter postings for the Stanford Medicine community and next week will be our last. Use this anthology as a way to continue developing a deeper understanding and an expanded awareness of the complexity of being Black in America today. 
 

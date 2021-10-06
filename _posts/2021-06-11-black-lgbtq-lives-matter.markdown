@@ -3,6 +3,7 @@ layout: post
 title:  "Black Lives Matter: Black LGBTQ lives matter"
 date:   2021-06-11 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/lgbtq.jpeg
 ---
 This month we celebrate Lesbian, Gay, Bisexual, Transgender and Queer (LGBTQ+) Pride Month. Although Pride events occur year-round across the world, this timing honors the 1969 Stonewall uprising in Manhattan, a pivotal moment <!--more--> in the gay liberation movement in the United States. This month often features marches and events that embrace and celebrate diversity and progress, protest harassment of as well as violence and/or discrimination toward LGBTQ+ people, and commemorate those lost to hate crimes or HIV/AIDS. We also recognize the impact that Black LGBTQ+ individuals have had on history locally, nationally, and internationally, including [Marsha P. Johnson][marsha-johnson], who was a prominent figure in the Stonewall uprising. [This article][article] highlights the achievements of Johnson and 15 additional queer Black trailblazers in civil rights, politics, art, medicine and other fields from the early 1900s to the present day. 
 

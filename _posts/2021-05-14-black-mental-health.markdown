@@ -2,7 +2,8 @@
 layout: post
 title:  "Black Lives Matter: Black mental health"
 date:   2021-05-14 12:00:00 -0500
-excerpt_separator: <!--more-->
+excerpt_separator: <!--more--> 
+image: img/therapy.jpeg
 ---
 May is National Mental Health Awareness Month. Racial bias and cultural incompetence are leading causes of misdiagnosed mental health symptoms among Black people, according to the [American Psychiatric Association][psychiatric-association]. <!--more--> Access to professional mental health care for many Black Americans [can be complicated][complicated]. Learn more about this significant health disparities problem in this [monograph][monograph] by faculty and alumni of Howard University’s School of Social Work and the E. Franklin Frazier Center. [The Black Mental Health Alliance (BMHA)][bmha] has a mission to “develop, promote, and sponsor trusted culturally relevant educational forums, training, and referral services that support the health and well-being of Black people and their communities” and includes many resources on their site. You can learn more about BMHA and many resources compiled in [this article][article]. 
 

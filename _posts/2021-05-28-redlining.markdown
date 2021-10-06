@@ -3,6 +3,7 @@ layout: post
 title:  "Black Lives Matter: Redlining, a racist housing policy"
 date:   2021-05-28 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/home.jpeg
 ---
 The history of housing for Black people has been inequitable due to redlining, a racist housing policy. Redlining is a discriminatory practice where mortgage lenders deny loans and insurance providers restrict resources in specific areas based on race. The term originated because maps were marked in red for Black and mixed-race neighborhoods. Watch this [video][video] to learn more about the stories of Black individuals in the Contract Buyers League, a grassroots organization in Chicago's North Lawndale community that fought against this policy for the right to own their home. Read more about redlining and its implications for the United States in Ta-Nehisi Coates’ article, [The Case for Reparations][reparations] (an audio version of the article is available at this site).
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Black Lives Matter: Black maternal health"
 date:   2021-05-07 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/doctor.jpg
 ---
 The coronavirus pandemic has exacerbated racism in our health system where Black maternal health disparities continue unabated. April 21, 2021, marked the one-year anniversary of [the death of Amber Rose Isaac][amber-isaac], a 26-year old Black graduate student <!--more--> who died after an emergency cesarean section, four days after tweeting how she would write an exposé on her “dealing with incompetent doctors” during the pregnancy. Amber’s story is not an isolated incident; according to a [January 2020 Centers for Disease Control and Prevention (CDC) report][cdc-report], Black women in the United States are three to four times more likely to die of pregnancy than white women. As we celebrate Mother’s Day this weekend, we call upon our Stanford Medicine community to recognize this Black maternal health care crisis, and, in [the words of Vice President Kamala Harris][kamala-harris], take “urgent action.” In honor of Black mothers, we invite you to understand the historical and present-day, adverse impacts of race-based treatment and treatment tools on Black maternal health in this [May 2020 podcast][may-podcast]. Learn about [several organizations][several-organizations] that are taking steps to save Black mothers, and familiarize yourself with the CDC's [steps to reduce risks of pregnancy-related complications and deaths][reduce-risks]. 
 

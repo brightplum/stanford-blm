@@ -9,12 +9,12 @@
             <div class="atbs-main-col">
                 <div class="atbs-block atbs-posts-list post-separate-md">
                     <div class="list-item row row--space-between grid-gutter-30 posts-list">
-                        {% for post in site.posts reversed limit: 4 %}
+                        {% for post in site.posts reversed limit: 4 offset: 2 %}
                         <div class="col-sm-6 list-item">
                             <article class="post post--vertical small-post--vertical height-md">
                                 <div class="post__thumb">
                                     <div class="background-img"
-                                        style="background-image: url('http://via.placeholder.com/1920x1080');">
+                                        style="background-image: url('/stanford-blm/{{ post.image }}');">
                                     </div>
                                     <a class="link-overlay" href="./{{ post.url }}"></a>
                                     <a class="post__cat cat-theme cat-theme-2 text-top-left"

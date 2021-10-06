@@ -3,6 +3,7 @@ layout: post
 title:  "Black Lives Matter: Happy Father’s Day"
 date:   2021-06-25 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/father.jpg
 ---
 In observation of Father’s Day on June 20, we celebrate fatherhood in its power to defy stereotypes and persevere against [false narratives and deceptive data][false-narratives] regarding Black fatherhood. <!--more--> The National Institutes of Health, along with other organizations such as the Ford Foundation, has risen to the task of debunking the negative myths surrounding Black fatherhood in our society that often inappropriately influence policy and public perception. Researchers such as [Cleopatra Howard Caldwell, PhD,][cleopatra-caldwell], principal investigator of the Fathers and Sons Program, and [Waldo E. Johnson Jr., PhD][waldo-johnson], of the University of Chicago and principal investigator of the Chicago Parenting Initiative Evaluation Project, are examples of many faculty whose serious work continues to break down the stereotypes and give us all a better understanding of the experience of Black men and youth today.
 

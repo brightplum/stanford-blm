@@ -1,0 +1,39 @@
+---
+layout: default
+baseurl: /stanford-blm/
+---
+<div class="atbs-block atbs-block--fullwidth">
+    <div class="container">
+        <div class="row">
+            <div class="atbs-main-col">
+                <div class="atbs-block post post-single">
+                    <div class="post-single__inner">
+                        <article class="post--single post--vertical" style="transform: none;">
+                            <div class=" single-entry-thumb post__thumb">
+                                <div class="background-img" style="background: url('/stanford-blm/{{ page.image }}');">
+                                </div>
+                            </div>
+                            <header class="single-head post__head text-left">
+                                <div class="post-meta">
+                                    <time class="time published">{{ page.date }}</time>
+                                </div>
+                                <h1 class="post__title">
+                                    {{ page.title }}
+                                </h1>
+                            </header>
+                            <div class="single-content">
+                                <div class="single-body entry-content">
+                                    <p>{{ content }}</p>
+                                </div>
+                                <footer class="single-footer entry-footer">
+                                </footer>
+                            </div>
+                        </article>
+                        <!-- {% include previous-next.html %} -->
+                    </div>
+                </div>
+                {% include article-related.html %}
+            </div>
+        </div>
+    </div>
+</div>

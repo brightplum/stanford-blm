@@ -3,6 +3,7 @@ layout: post
 title:  "Black Lives Matter: Remembering George Floyd"
 date:   2021-05-21 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/i-cant-breathe.jpg
 ---
 May 25 will be the one-year anniversary of George Floyd’s murder at the hands of a policeman on duty in Minneapolis. Nationwide and across the globe, protests awakened us to the legacy of systemic racism <!--more--> in the United States. As Mr. Floyd’s 6-year-old daughter, Gianna, [said][said], “Daddy changed the world!” George Floyd is more than a hashtag. He wanted ["to touch the world."][world] He grew up in Houston and was the first of his siblings to go to college, where he got an athletic scholarship. He was a rapper in Houston’s 1990’s hip-hop scene, then moved to Minnesota for a fresh start. He formed a community in Minneapolis, taking on jobs to protect other individuals. While we mourn the loss of Mr. Floyd’s life so violently, unjustly, and prematurely ended, his life’s journey accentuates the grand challenges and threatening impact of systemic racism and the injustice that are all too common in our society. Learn more about [the life of George Floyd][life] from those closest to him, and the underlying systemic issues in our society.
 

@@ -4,57 +4,24 @@
             <h4 class="block-heading__title">Related Articles</h4>
         </div>
         <div class="row row--space-between grid-gutter-40 posts-list">
+            {% for post in site.posts reversed limit: 2 %}
             <div class="col-sm-6 list-item">
                 <article class="post post--vertical small-post--vertical height-md">
                     <div class="post__thumb">
-                        <div class="background-img"
-                            style="background-image: url('http://via.placeholder.com/1920x1080');">
+                        <div class="background-img" style="background-image: url('/stanford-blm/{{ post.image }}');">
                         </div>
-                        <a class="link-overlay" href="./single-2.html"></a>
+                        <a class="link-overlay" href="./{{ post.url }}"></a>
                     </div>
                     <div class="post__text">
-                        <a class="post__cat" href="./category.html">fashion</a>
+                        <a class="post__cat" href="./category.html">BLM</a>
                         <h3 class="post__title typescale-3">
-                            <a href="./single-2.html">The Secret of Getting Ahead Is Getting
-                                Started</a>
+                            <a href="./{{ post.url }}">{{ post.title }}</a>
                         </h3>
-                        <div class="entry-author post-author-style-2">
-                            <a href="./author.html" class="author-avatar"><img src="http://via.placeholder.com/100x100"
-                                    alt="File Not Found" /></a>
-                            <div class="author__text">
-                                <a class="author__name author-name" href="./author.html">By
-                                    alan benner</a>
-                            </div>
-                        </div>
                     </div>
                 </article>
             </div>
+            {% endfor %}
             <!-- -->
-            <div class="col-sm-6 list-item">
-                <article class="post post--vertical small-post--vertical height-md">
-                    <div class="post__thumb">
-                        <div class="background-img"
-                            style="background-image: url('http://via.placeholder.com/1920x1080');">
-                        </div>
-                        <a class="link-overlay" href="./single-2.html"></a>
-                    </div>
-                    <div class="post__text">
-                        <a class="post__cat" href="./category.html">fashion</a>
-                        <h3 class="post__title typescale-3">
-                            <a href="./single-2.html">The Secret of Getting Ahead Is Getting
-                                Started</a>
-                        </h3>
-                        <div class="entry-author post-author-style-2">
-                            <a href="./author.html" class="author-avatar"><img src="http://via.placeholder.com/100x100"
-                                    alt="File Not Found" /></a>
-                            <div class="author__text">
-                                <a class="author__name author-name" href="./author.html">By
-                                    alan benner</a>
-                            </div>
-                        </div>
-                    </div>
-                </article>
-            </div>
         </div>
     </div>
 </div>
