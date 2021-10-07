@@ -44,7 +44,7 @@
 }
 .post--horizontal-featured .post__excerpt{
     max-height: 2.6rem;
-    overflow: hidden;
+    overflow: visible;
 }
 .post--horizontal-featured .post__excerpt,.post--horizontal-featured .post__cat,.post--horizontal-featured .post__title{
     z-index: 1;
@@ -60,9 +60,9 @@
 }
 .post--vertical-featured .post__title{
     padding-right:  30px;
-    margin-bottom:0;
+    margin-bottom: inherit;
     max-height: 3.5rem;
-    overflow: hidden;
+    overflow: inherit;
 
 }
 .post--vertical-featured .post__thumb{
