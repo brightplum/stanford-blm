@@ -1,23 +1,29 @@
+---
+layout: default
+title: All Posts
+baseurl: /stanford-blm
+---
 <div class="atbs-block atbs-block--fullwidth">
     <div class="container">
-        <div class=" block-heading heading-style-2 text-center clearfix">
-            <h4 class="block-heading__title">
-                Latest Posts
-            </h4>
-        </div>
         <div class="row">
             <div class="atbs-main-col">
                 <div class="atbs-block atbs-posts-list post-separate-md">
-                    <div class="list-item row row--space-between grid-gutter-30 posts-list">
-                        {% for post in site.posts reversed limit: 4 offset: 2 %}
-                        <div class="col-sm-6 list-item">
-                            <article class="post post--vertical small-post--vertical height-md">
+                    <div class=" block-heading heading-style-2 text-center clearfix">
+                        <h4 class="block-heading__title">
+                            Posts Archive
+                        </h4>
+                    </div>
+                    <div class="posts-list list-space-xxl">
+                        {% for post in site.posts%}
+                        <div class="list-item">
+                            <article
+                                class="post post--horizontal post--horizontal-small height-md post--horizontal-middle">
                                 <div class="post__thumb">
                                     <div class="background-img"
                                         style="background-image: url('/stanford-blm/{{ post.image }}');">
                                     </div>
-                                    <a class="link-overlay" href="./{{ post.url }}"></a>
                                     <a class="post__cat cat-theme cat-theme-2 text-top-left">BLM</a>
+                                    <a class="link-overlay" href="./{{ post.url }}"></a>
                                 </div>
                                 <div class="post__text">
                                     <h3 class="post__title typescale-3">
@@ -29,7 +35,7 @@
                                     <div class="post__readmore text-right clearfix">
                                         <a href="./{{ post.url }}" class="button__readmore flexbox flexbox--middle">
                                             read more <span class="icon-post"><i
-                                                    class="mdicon mdicon-arrow-right"></i></span>
+                                                    class="mdicon mdicon-arrow-right "></i></span>
                                         </a>
                                     </div>
                                 </div>
