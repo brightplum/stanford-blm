@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Search
-baseurl: /stanford-blm
+baseurl:
 ---
 <div id="search-title">
     <h2>Search the Black Lives Matter Weekly Archive</h2>
@@ -13,13 +13,13 @@ baseurl: /stanford-blm
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="/stanford-blm/js/search-script.js" type="text/javascript"></script>
+<script src="/js/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
     SimpleJekyllSearch({
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
-        json: '/stanford-blm/search.json'
+        json: '/search.json'
     })
 </script>
