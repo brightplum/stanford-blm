@@ -23,8 +23,14 @@ email: skotadia@stanford.edu
 description: Stanford School of Medicine Anti-Racist Coalition
 baseurl: ""
 url: https://blacklivesmatter.stanford.edu # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      image: /img/protest.jpeg
 
 # Build settings
 theme: minima

@@ -9,17 +9,17 @@
                             <div class="background-img"
                                 style="background-image: url('/{{ post.image }}');">
                             </div>
-                            <a class="link-overlay" href="./{{ post.url }}"></a>
+                            <a class="link-overlay" href="{{ post.url }}"></a>
                         </div>
                     </div>
                     <div class="post__text background-circle">
                         <a class="post__cat cat-theme">2021</a>
-                        <h3 class="post__title typescale-4"><a href="./{{ post.url }}">{{ post.title }}</a></h3>
+                        <h3 class="post__title typescale-4"><a href="{{ post.url }}">{{ post.title }}</a></h3>
                         <div class="post__excerpt">
                             {{ post.excerpt }}
                         </div>
                         <div class="post__mainreadmore text-left clearfix">
-                            <a href="./{{ post.url }}" class="button__readmore flexbox flexbox--middle">
+                            <a href="{{ post.url }}" class="button__readmore flexbox flexbox--middle">
                                 read more<span class="icon-post"><i class="mdicon mdicon-arrow-right"></i></span>
                             </a>
                         </div>
@@ -33,16 +33,16 @@
                     <div class="post__thumb">
                         <div class="background-img" style="background-image: url('/{{ post.image }}');">
                         </div>
-                        <a class="link-overlay" href="./{{ post.url }}"></a>
+                        <a class="link-overlay" href="{{ post.url }}"></a>
                     </div>
                     <div class="post__text">
                         <a class="post__cat cat-theme">2021</a>
                         <div class="post__text-wrap flexbox flexbox--middle">
                             <h3 class="post__title typescale-1 flexbox__item">
-                                <a href="./{{ post.url }}">{{ post.title }}</a>
+                                <a href="{{ post.url }}">{{ post.title }}</a>
                             </h3>
                             <div class="post__readmore text-left clearfix">
-                                <a href="./{{ post.url }}" class="button__readmore flexbox flexbox--middle">
+                                <a href="{{ post.url }}" class="button__readmore flexbox flexbox--middle">
                                     read more<span class="icon-post"><i class="mdicon mdicon-arrow-right"></i></span>
                                 </a>
                             </div>

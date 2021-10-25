@@ -2,3 +2,19 @@
 ## Custom CSS
 ----------------------------------------------------------------- */
 /* Add here all your CSS customizations */
+
+.su-masthead .su-lockup {
+    margin-bottom: 0;
+}
+
+.atbs-main-col {
+    width: 100%;
+}
+
+.post__excerpt {
+    max-width: 100%;
+}
+
+.atbs-block .post__text {
+    min-height: 200px;
+}
