@@ -30,7 +30,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      image: /img/protest.jpeg
+      image: "img/protest.jpeg"
 
 # Build settings
 theme: minima
