@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Black Lives Matter: The Martin Luther King, Jr. Research and Education Institute"
-date:   2021-01-08 12:00:00 -0500
+title: "Black Lives Matter: The Martin Luther King, Jr. Research and Education Institute"
+date: 2021-01-08 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/slavery_sign_protesters.jpg
 ---
+
 Stanford University is home to [The Martin Luther King, Jr. Research and Education Institute][mlk-institute]. The institute maintains and supports the King papers and resources and has created a <!--more--> Liberation Curriculum, which includes lesson plans and educational resources for students of all ages. [Clayborne Carson][clayborne-carson], PhD, professor of American history and director of the institute, was selected by Coretta Scott King in 1985 to edit and publish the papers of Martin Luther King, Jr.
 
 [mlk-institute]: http://r20.rs6.net/tn.jsp?f=0016qdU-YLcina1kSF7y0Xvu9QnTycICv59NGbHTBkZBtWtbb0AgpmtIhn_733qSHekCOGDUTq4HF0nDMvmJxzXcGmkkWGm03bXUNKFH9wLGNZ2hMDHmdEon56j6ip9kHsFOfku2WP0rjTgsgTWeToGQ8w9zOyLhuB9u7fc2L8wHxHWSgxFx3efhReO0mmNCtDJZ99QYf_LTFZUd6v1UOqdX_JGNx12WXemQu1QqllhXqxnI3i_k46k0vFlqQJXxZeMmymVJD5_fJrJFOv0cp6FZyxSaRKxrClGzh9JH9UbAAIa3GAJNxA73j0wY-YPYI5VMHep_qDFaGJdZiGvzHOlQxcmWiTO8MQgA1xUTKo828Q5EtUJlwoSHLM4ectHmZwfZsd5pn517S2W4oqOcmtjpNI23CsryzPLjlMkJdATY9CFrMNGDqON70dmiwHAU-NmZqHoeZfk9BFArDwrQtFL-bhWo2G8X5tgebqFKW7vWOPE33mc0hhbl_cVKd-Fhf1ykyyRWaDNu5A9aMFzmSZdBX_oAPaqFMJVAuKM4gDHrSk25UFyOXV8c4ZmTQOat-QtLzOcf9vJOHehEZWXq0gEXU_X3BTLbsY3gImIcrH5_wk6irJafL80UOhy1XwY--oHhUixqugIqYwcZ6g22nYUGu031nebN9BiiU8zgx6LGh1yY7yMKPjfw0OLgUTOgVu-JEetWl4kkMrLVnAcsCVYaA==&c=TlwFvbh4aU1a-x9VrTTiHI6h2LbZsNNEi2yu1IIusbZHD5-DS2A7Ug==&ch=CywpJh9QeNhM5JOm7gmSTVaadIKxegMwrGabBKQkig72KfhgCcorUw==

@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Black Lives Matter: Marsha P. Johnson"
-date:   2020-10-09 12:00:00 -0500
+title: "Black Lives Matter: Marsha P. Johnson"
+date: 2020-10-09 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/black_queer_lives_matter.jpg
 ---
-The [2020 LGBTQ+ Forum][lgbtq-forum] took place on Wednesday with the theme [intersectionality] (coined by [Kimberlé Williams Crenshaw, JD,][kimberle-crenshaw] a professor of law at UCLA and Columbia Law School). In honor of <!--more--> intersectionality, let’s consider the life of Marsha P. Johnson. A Black drag queen, Johnson was credited with a key role in the Stonewall uprising. An institute was formed in her honor to “create a crucial entry point for black trans women and gender non-conforming femmes…” [Learn more][learn-more] about Johnson and the [Marsha P. Johnson Institute][johnson-institute]. 
+
+The [2020 LGBTQ+ Forum][lgbtq-forum] took place on Wednesday with the theme [intersectionality] (coined by [Kimberlé Williams Crenshaw, JD,][kimberle-crenshaw] a professor of law at UCLA and Columbia Law School). In honor of <!--more--> intersectionality, let’s consider the life of Marsha P. Johnson. A Black drag queen, Johnson was credited with a key role in the Stonewall uprising. An institute was formed in her honor to “create a crucial entry point for black trans women and gender non-conforming femmes…” [Learn more][learn-more] about Johnson and the [Marsha P. Johnson Institute][johnson-institute].
 
 [lgbtq-forum]: http://r20.rs6.net/tn.jsp?f=001A1BwU6eY3GFkECZtvduvzd-Hk2tBTasY5EpcWmY_1f-IBB3K4oFFEoMi8wv-y-BWxDM5mumKtrwu-F0eIGiIg9her6MQR1_PIRIltPjX6ErJwbwpHWUzKe_bWzWiN33JIKpXa85Pl74VyBgalLao9VQyyvwzOdw5jxLEjCFNaHGYgSr3myy6y6aC-JZS9V_T6Nhy_P5_Z32yz3dMNsUn0c-BQpjYReXI7D0rVr0zO29uWNiwCjhxtR47CRmq7jx2v6z2j620raIU6PEjUP6F0zoNg0iA-dasdyuEH2lm1s3UT07-MUlDo2C_xdsWCTyzwcVoMD5ruSJjQWDxuBD-rcAX5u_j_gnRFyzLc2v4hcj21adgr_ucMl_lzQn-B1I9qtj4GsDX7C4yYvNwCdTRo_Ahy-QbAUE7F4s4OIVbDBrEvWXs7CDc47Vj-XrNV5dx3oPlrSdXrTA52fMMNti4TcxT7Ng9Fgafy0SvwBsQIzs_YxH2jA7SB_HBRfGOtdaueOJifTFwxgjBjADp1WrBNHLwbwDhFEuz0oHP-oXakN6ZEs9rf7u7PzZVXKnH9-0PvfZL0uDTuypIrcTi12fTpc1hR6gaYj4fWmKry-BMH9F72JoKH1W7yfOw3k2HmZs4o77hv4cjRvU=&c=8RuVS2vPFG0xMAcECvRBJAuIRm8mxNrqD6K_EBy2agPGJTypHj6Smw==&ch=11TOB8M-uCEsoILw_Me0a6m_o4LjKBVNTdYkIyP9VY_WCi5N6kaStA==
 [intersectionality]: http://r20.rs6.net/tn.jsp?f=001A1BwU6eY3GFkECZtvduvzd-Hk2tBTasY5EpcWmY_1f-IBB3K4oFFEoMi8wv-y-BW4mZ-c1NETP4cYnx3u0o5wsR2z8GfOdcccWwaG9ukd3VF-41ZB7x3MmDKWds4Movgf3OsVKdhJkV-MuDoCPfy9-dz6JsvKNDtmxGFF163PYoQEifdceOpIdzDBKn943eAemeaZXnjI1Wz02EvgiUW8ni2V9qVZDYAxGUPl9Mxxg5YvcaqOsgMZTcAsyKShh1Trrosuftrb5n9UnmuX8wiKYwPwz-uefzzI7Y6JUbrHjpvBCyfeihJXu3imPabrdRq914_eArngf77dxQYsfbg6jCbuHK_zHiZSpPu_vcbI1zIUBKmQJZfBPW_B6YnZGpZUdguzLKaGC9-7VrV_nGJhxixjFpKcDJGWTZsZ98z-MoGLcCK319kOEdrim52UxmPEdltWyZ1DgMBjTZy-PTlkDWrqmfyVRfQrHt8_sSAxRppKzFgLB6pBMr4Y6qU5nd_BiJtSNLp_peOm6fuGfwUjqb-XxMEp74YPmMSpCh1Pw3sul7OuxNSBNm7nBGzjzMA&c=8RuVS2vPFG0xMAcECvRBJAuIRm8mxNrqD6K_EBy2agPGJTypHj6Smw==&ch=11TOB8M-uCEsoILw_Me0a6m_o4LjKBVNTdYkIyP9VY_WCi5N6kaStA==

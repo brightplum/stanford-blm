@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Black Lives Matter: Kamala Harris, first African American and South Asian American woman Vice President of the United States"
-date:   2021-01-22 12:00:00 -0500
+title: "Black Lives Matter: Kamala Harris, first African American and South Asian American woman Vice President of the United States"
+date: 2021-01-22 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/afro_american_flag.jpg
 ---
+
 Born and raised in Oakland, California, and sworn in this week, Kamala Harris is the first African-American and South Asian-American woman Vice President of the United States. Her path to this <!--more--> historical moment includes many early commitments to fighting injustice. As a child of immigrant and activist parents, [her early exposure][early-exposure] to community organized demonstrations for equality and civil rights influenced her career aspirations. [Her time at Howard University][howard-university] further refined her approach to working for social justice, and led her to choose a career as a prosecutor. As a nation and as an institution we are witnessing history. Let us take this moment to do the work to make Stanford an equitable and inclusive environment, where individuals with intersectional identities can thrive and go on to make their mark on the world.
 
 [early-exposure]: http://r20.rs6.net/tn.jsp?f=001Eib1zl2gfvhLlCWzyZ2f9J2r4QmRsWhwefanjvEcGyYw7c7E__RV2bi5zQsd6Lgn7vasxt6tXSq8NIURnbXa0Y6ULd3BSMWjSBJaN0GG3U3iAZ3G7B8Wr0V_UdmstAhOrNOXe4FbrlqDEbqDLcIzwuD5vfzzLnGgJWle4SV0ZMQ_DoPxLcVd1UHVaHSS6QkrbucSV0wwg1dn847htOxsACJXyAmz6lU9y1c_w-zPl-CxC3Vy6e2j6sNSQ6rQH764xXPKY4FIVbCER8chYtm0O2rDFWkGqpYw5mPDycDemSwg-jv_LFR3UpaVgowTCnV6dFvCJus_YVg0xoMpjWeslSG3Tx9UNb97FCBRNhggLErYslLwpn-HyMiNRLtap0KoPUpHCxi7jR8n-N8E0Dq_YnYRyyCH-lFqWvMIgQryCRAJEwAjCJgQrwMwMXpuaoESQvb-0tvi0x6we7i6kcoevEWdJSoRXbVX3K4z5wCQH0FVAkT9JyHOua9k7FkqwOG2dewLM8alZMUAY1E2iSLF84_Z44bq-J22WecVU-kzjliLTm5sPqETV2WKtP2z3ZQjz8jFhn_Fn6s9dPqJH6mwbobTRHuZBtV-vHh_ktbGJh2fycPCxfqQKuyz8O5BpAKLQLF0Bniuoc0DyhoYnYYfZcXRuKjlBc5MnK12YJvTe6RlYg9fGOxV4p2UhEs1WFad_QNFS-Y403aN5s24Quy1FYguvE6ddm6udNei8rk8io6_Gb_BR0_o8cllCkz_YwMmuyeeipsziX4vm70H34idh9Sn8O0NwR2I&c=Xvg6FsajDmQMkO-XmXCz_V-EuWymtLWNifHNlzkGc4q6ri3fI67k1w==&ch=WDwBUUvXN_BvjWoSfISncH9CB_Ug3ZS75k7jkKV8o-lQ_D37GygrkA==

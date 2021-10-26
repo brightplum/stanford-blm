@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Black Lives Matter: Ida B. Wells"
-date:   2021-03-12 12:00:00 -0500
+title: "Black Lives Matter: Ida B. Wells"
+date: 2021-03-12 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/afro_american_flag.jpg
 ---
+
 Ida B. Wells was a journalist and civil rights pioneer whose ability to see and speak the truth of racial oppression during Reconstruction planted seeds for the modern civil rights movements. <!--more--> According to [womenshistory.org][womenshistory], in 1884 she wrote about being dragged from a train after refusing to give up her seat in the first-class ladies’ car. But the lynching of a close friend turned her attention to investigating lynchings taking place across the South and was the start of her anti-lynching campaign. [Through her comprehensive research and investigation][investigation], Wells uncovered and documented the ways White people used lynching to erase truths and attempt to control Black people through terrorism. Wells courageously spoke truth to power, and shared a comprehensive and nuanced understanding of one of the great shames of this nation. Some historians claim that her anti-lynching campaign is the true beginning of the modern civil rights movement. She was also one of the founders of the National Association for the Advancement of Colored People (NAACP) and worked with Susan B. Anthony as a leader in the movement for women’s suffrage. In May 2020, Ida B. Wells was awarded a posthumous Pulitzer Prize for her work. If you have 30 minutes, you can learn more about Wells’ incredible story by listening to [this United States of Anxiety podcast][anxiety-podcast]; you can also read her own words by checking out "The Light of Truth: Writing of an Anti-Lynching Crusader", a collection of Wells’ writings that is available for checkout from the [Lane Library D-Core Racial Justice book collection][book-collection].
 
 [womenshistory]: http://r20.rs6.net/tn.jsp?f=001LAeq9lYwVvR2DvXJ2d0hReFTbvOjoFut352ZoUx-8OLVwZUO4iqSpDenNi0urVFiu8pCcmOUr8X1Bb5y1p_hcI3zFK3EO6rSsh9_9OSss9VjyW2aLL-l4-mVbGHM93mqwy5pej30ck248-alie_joKdH6m_Fz6nF0LmAm7dCQmg2jxPnIZg0jH3dXRXsr7yZrpk2l0acPNEwLjxv1vn7MCpllkfM3Bkx&c=nHAXFsOB3MTzC9oxpQHqRETmk6pbItrEChOXMsZbu6t1J9aPhde1iA==&ch=4_ebS1QIDkrOIB9ah_Ua7fToTBNe5u-XcTrjJI8VyuxMVsrsU0tJIg==

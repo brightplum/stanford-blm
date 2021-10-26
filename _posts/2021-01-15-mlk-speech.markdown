@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Black Lives Matter: Martin Luther King, Jr.’s 1967 speech at Stanford"
-date:   2021-01-15 12:00:00 -0500
+title: "Black Lives Matter: Martin Luther King, Jr.’s 1967 speech at Stanford"
+date: 2021-01-15 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/afro_american_flag.jpg
 ---
+
 On April 14, 1968, Martin Luther King, Jr. gave a speech at Stanford about racism and civil rights in American society. He touched on many of the issues that resonate today: racism, poverty and <!--more--> violence versus nonviolent social activism. He noted that the poor "find themselves perishing on a lonely island of poverty in the midst of a vast ocean of material prosperity.” Watch the [full video][video] of the speech and a [short video excerpt][excerpt].
 
 [video]: http://r20.rs6.net/tn.jsp?f=001-xXNaaKMkzPbeV_SGVUS6hhhQ2C8SuXytYlxBYQ2i4sFlap0WCUdCmCbL2baaCBVdboBPBYHyPObRMk8DVWmOaGRNzIxAp_rjmaXk3bxJBmvYkFSfzGxs3d-khJkYp-VPnfG3_zXcmOZSN73R-AqrwEke58yJ0k4p_8Edvcc20k9ZeBBkEnk0y_ByX6BVsEuoL-vYPSSLSV10QKAHigIPi2oAWBmlir1qHHWZ8vbQIZRDtHWGcxzpxLyyIxHQEhW_pnwtwUeAoe2c38lYAIvDWzX8Nbvr2IJE8DDDLQGhUefrIO7LJkwHibWGpbdIv8-8KYRprnQeRquFpZ8ZvuypsocnYPOT10_9SCGlcEwJLxjP7i7yjtwrGf0lwZxE0iGt8d0zbrJhTnii-k8V0onw1bhdt5lELkybr8FpXufOJT1Kn6PD-c89LWAgr40f58Sxg4C1JVnyWT75wovISZ3IMJYPeUDqvnMT3WB72oYGV4Z5RBkUaerV0zXbm0-zKpTUEnCXX6rFsmh4MMcd3U8zW2zIOVP17ovEZI_imB72fTuzujuYPEV3YOPwEHKktzb-l4mbI1QUytZ9Wlc4p92xBAM9amSHq34PYLYIrBzk_LYC_hVmd1Vf5bnDKvqSalSZxOLu60x_e4SrreEeQrqVxqUUelgGGbbC86HIme-AREVpscMIsO_z15yzWlhlLJ4jwyI_EXvqLZDXZBM_-xn6_NP_m1GW_Aczq4X9FQfDx432azlvcqCreOw4K52TFMffkDtgn1oC81qZDwx2Yoz3pDXoKk6v4cbC3arajvwNNqWhEjMAP5qNg==&c=9cidSRZrecf1hP_SkvuV5GzmRhcZ6SySG3xtKzFh49fYgrE_qT0OQw==&ch=oRgRGeCmcIA96iq7RE9-vgw14OUN1Yacae7X2apqiNKQ1xlS6qJl-g==

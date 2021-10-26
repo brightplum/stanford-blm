@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Black Lives Matter: Black Trans Advocacy Coalition"
-date:   2020-11-25 12:00:00 -0500
+title: "Black Lives Matter: Black Trans Advocacy Coalition"
+date: 2020-11-25 12:00:00 -0500
 excerpt_separator: <!--more-->
+image: img/black_queer_lives_matter.jpg
 ---
+
 The [Black Trans Advocacy Coalition][coalition], an organization founded and run by Black transgender folks, seeks to improve the Black transgender experience through health, housing, and <!--more--> employment equality. Health equality includes recognizing the resources that Black transgender individuals need access to during the COVID-19 pandemic. Learn more about the treatment of Black trans women and potential solutions from [Harvard Civil Rights - Civil Liberties Law Review][law-review].
 
 [coalition]: http://r20.rs6.net/tn.jsp?f=001qmBOYtBCoyOod7zJ2vUloY4lL0m6hRLWDZ4_GaDjs__CfHDn0oYO6LP1U3a5z68Ce-8HnWnk73PGF-RGe56kmkkhxrsMWb2CF81gfYJjoIYz9cMJH3rXnqX5mZGOdJnHK11Aya9oAv2PNL39kXhtFXEuqW3jR9HeMLg7k0CKfYuZM1a-t9QYVpXpxH4JyumqrW-KAjtkqhxf2dtCqeBmUknk0lYV9eX_tRJ7enOBzybIkpR_z5XyaD0be3UUomNp8YerE3dKe2kMWRbq-dZDc7hxiYcwzvNUT__MQzkmzbYt5-R1Oz4ODXAxveLv34mYrjVaJt1-1WV0PcfJ27beP1Z2DBzvCL0T7JJBzGcI_kB-xKj47wCGRIH31wDxxe21PY-oB1DwFleUqujcCyjgfNjeCRnR21oIxznkSC0h85TY7ul_q-vZTp2ePjJ_FEIMPIO5jW7tXbyC8p2poR0ayNsy8IWke0bBUXqBZSlaZltke6ygTixdqqvOPH0xrlu8aqCU8L5-hO6_SfTpB8hhvu5ds-YeK70umNpL9S72fB4zr9SLlXI0QDSFLiD1P8LQGu0Zr2Gs0fTaXnnb6GZtHgVCYUq0cpsJPVAdssVXWcUel9LIWYNaEJ0N8hmWY3N0aKRvDQtNZAK6YgrtKPZdjTrW8ot8OJfRIyLkEPSAUFkf0lNVa_sAKaSeZ9Yf-j7aZYC9MQ2UKYU=&c=xDb2HjP8B0HYCqjQaqJ8Zhslw_E_lKz-rCp9D9D8CR1TT9vrmg158Q==&ch=3S3lxWIf7hqBHuDNdtoQOwfMNlf46Oju2GI12nB2eUIajTdCe5T3oA==

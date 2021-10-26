@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Black Lives Matter: Augustus White, first African American Stanford medical school graduate"
-date:   2021-07-09 12:00:00 -0500
-image: img/doctor.jpg
+title: "Black Lives Matter: Augustus White, first African American Stanford medical school graduate"
+date: 2021-07-09 12:00:00 -0500
+image: img/doctor_and_patient.jpg
 excerpt_separator: <!--more-->
 ---
+
 Today we recognize [Augustus A. White III, MD, PhD,][augustus-white] who has been and continues to be a leading voice for diversity, equity, and inclusion at Stanford Medicine and beyond. Born in 1936 in Memphis, Tennessee, Dr. White’s life <!--more--> is full of [pioneering achievements][achievements] — he was the first African American graduate from Stanford's medical school, Yale Medical Center's first African American orthopedic resident and the first African American department chief at Harvard's teaching hospital. Specializing in care of the spine, White worked at Harvard Medical School as a professor of orthopedic surgery, and as the Ellen and Melvin Gordon Professor of Medical Education. In addition to his MD, White has a PhD. in orthopedic biomechanics. As an internationally known orthopedic surgeon, Dr. White is dedicated to diversity-related issues in health care. He is author of the book "Seeing Patients: Unconscious Bias in Health Care" and "Seeing Patients: A Surgeon’s Story of Race and Medical Bias". In 2006, White was awarded the [American Academy of Orthopaedic Surgeons Diversity Award][diversity-award] for his life’s work, and his contributions to the field. He also served as [speaker at Stanford Medicine’s commencement in 2017][commencement]. He has been a strong supporter of and advocate for Stanford Medicine’s diversity, equity and inclusion efforts and since 2011, he has presented the [Augustus A. White III and Family Faculty Professionalism Award][professionalism-award] to a Stanford Medicine faculty member in recognition of outstanding work in helping to reduce health disparities or to enhance the effectiveness of minorities in the university community through research, education, mentoring or service.
 
 [augustus-white]: https://r20.rs6.net/tn.jsp?f=001bBgS9HZQlOQ9VC0LbaMT9zCvrYAyJDDg4X0RWRH16zsJXZb5uSlv4_QAfWii6eHa_7nUAoQkiKP5LYLJImpy-UHtZitK9Vji1U5PEQbGJt1920T9vcGzZduvXLsfNufQ3u4-Ar2UVUdlPZ4g6LHOjAccwSdu748r-7vGFove6Jxwxm_bUneCTQ==&c=iu4KCTtE_IHkXWCmsAYOB-4hZ0tzr77yX9QZZg64V227WZ-QjLwARA==&ch=40zuBg2GsFApB9J3uvkrGYbyKbYiXnNpweHcKvCWlmmksZ3KQ7lvdg==

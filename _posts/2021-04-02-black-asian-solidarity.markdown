@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Black Lives Matter: Solidarity between Black and Asian communities"
-date:   2021-04-02 12:00:00 -0500
+title: "Black Lives Matter: Solidarity between Black and Asian communities"
+date: 2021-04-02 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/black-asian.jpeg
-
+image: img/protesting_doctor.jpg
 ---
+
 [Grace Lee Boggs][grace-boggs], daughter of Chinese immigrants, was an activist involved in the Black power movement in Detroit with her husband and Black autoworker, James Boggs. According to NPR.org, together, they transformed the city of Detroit <!--more--> by taking on civil and labor rights. As movement activists, environmentalists and philosophers, their lifelong pursuit was to help grassroots activists develop themselves into visionary leaders and critical thinkers. Through her work, Grace formed a [deep friendship][deep-friendship] with Malcolm X and he would stay at the Boggs' family home during his visits to Detroit. They shared in the fight against racism, the Vietnam War, and imperialism. She also worked with Dr. Martin Luther King Jr. when he organized in Detroit. Grace helped found the Detroit Asian Political Alliance, the National Organization for an American Revolution, and [Detroit Summer][detroit-summer]. After James' death in 1993, the [Boggs Center to Nurture Community Leadership][boggs-center] was founded to honor and continue Grace and James’ legacy. The lifelong partnership between Grace and James is one of the most noted examples of solidarity between the Black and Asian communities.
 
 [grace-boggs]: http://r20.rs6.net/tn.jsp?f=001CpPyll7JRk8KcpHesUwDDTVUg4yGNb7rQCcLeOW0R20aZp_SvLlzoGqH5CSiTwNRHdPNe5k78lf6_5gWz6c1eHR_ZyiMbvdXLpIT5_BXTcrhYox57hWNsk6KFP117_l91XlJ-nPln0FeHdAxCjwpgbQ7nWwAvt-ONY3HqLcxo5EPD58Mep4PADF4qwcXMUYejFE2yfgcPD9iWfnn2PCMusxzcklv0nC5tlQEOCx_yZB12ylb0KeWFAdO5_OJ43PC0P6ptMBBUuvkSuWA4iqtvQYhZYR0B3kOsM_NwT41PnZAhyXhxdrR-h8tdK76AzY24kWWSvZEjML_wI0sHD6f-SmfOY96uirh3hXU8ces1ZBImY37OLG1lYns1TY7SxwV_d86NN_Fe9G194GaUS4JlUhEOoX6_QO5PfDI43GP2XbofOmrwQnM-QwAHP4So_2UhVwX_I1JO4F3b_xo9v4BZeMMUDeUOadlFrteL8sV0FYBS0zqwK6bHVb9q73X1GhkQKGVqKWrXJT7uT_MLx6T9vctSC_TbmrYKN0VSoj1DMGHM_PZSOxqZMTNr635liGuKD_U0vhIQX1DdGXApiu0C7wtGLQEKLNOqqvA5xlkDXUEM2zQMZpNWfRqzQ348dPzuJ_6UfXDUBzXoEyuuETb3xULpky_dr7JCihIMEO8OpYgPH2ryNBfYER2OKuASi6b6G3SuyC08hsXObInb86S6TF8q7nD41-fZdmio7s3Xm_OEy7ALae9aaP83Ng8cuRwhJ9PTERgnVhp3JwDqhbf4gwh4XTehtM3AGzvUpAL5tDWOttk8m3Lrx99nLcsOIOT4lQkqOEVzpr2KX_vd-agrlgOQY_mGxju&c=QAzOyFN1YarcRI7q7FQodpSVFHxIk0g8VMY-9bI0kZxYsN3AFxym1w==&ch=DNACJjDycEzpQBrkyNXtYuh_5TbBbBJSl_PT_jXpQ55fvhArrYlN6g==
