@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Shifts in language you can make to hold health care systems accountable"
 date: 2020-10-16 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/blm_words.eps
+image: img/blm_words.png
 ---
 
 In a blog post on [systems centered language][systems-centered-language], Meag-gan O’Reilly, PhD, a psychologist with Stanford’s Counseling and Psychological Services, reflects on her experiences <!--more--> and argues that the language we use while discussing how people are experiencing oppression can be inadvertently dehumanizing. “The goal of systems centered language is to begin to reclaim through language the inherent value of human life and place accountability where it is due, which is squarely on the interlocking, intergenerational, and very present systems of tyranny and oppression, primarily racism,” O'Reilly said. “I offer specific examples of common terminology that we use in the health care field that we ought to consider altering if we wish to dismantle systems.”

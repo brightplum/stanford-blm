@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Understanding Intersectionality"
 date: 2020-11-13 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/blm_words.eps
+image: img/blm_words.png
 ---
 
 Originally coined by [Kimberlé Crenshaw][kimberle-crenshaw], JD, a Black professor at Columbia Law School, in 1989, the term intersectionality has come into prominence in recent years and is often <!--more--> misunderstood. The term intersectionality describes the social, economic, and political ways in which race, class, gender, and other individual characteristics “intersect” with one another and overlap. This term is a helpful reminder that individuals are not a monolith and they may identify with multiple identities, some of which they choose and some which they do not. These identities may determine the extent to which individuals are afforded privileges and how they interact with social systems (such as education, health care, law enforcement). Understanding intersectionality is critical to advancing educational and health equity for all. Learn more through Kimberlé Crenshaw’s [podcast “Intersectionality Matters."][podcast]
