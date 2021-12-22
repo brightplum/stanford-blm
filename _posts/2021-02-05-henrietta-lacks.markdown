@@ -3,8 +3,10 @@ layout: post
 title: "Black Lives Matter: The Legacy of Henrietta Lacks"
 date: 2021-02-05 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/ultrasound.jpg
+image: https://media.npr.org/assets/img/2018/05/15/pa_npg_18_9-lacks-r_wide-5c515e193489727255b1493a9393a19bb61b54cb.jpg
 ---
+
+(image courtesy of NPR)
 
 If you have received a vaccination for polio, HPV, mumps or measles, then Henrietta Lacks is a Black woman to thank. In 1951, Henrietta received treatment for a tumor on her uterus from physicians at [Johns Hopkins University][johns-hopkins]. A sample of her cancer cells <!--more--> were sent to a lab and unlike other cervical cancer cells, they did not die, instead doubling every 20 to 24 hours. [According to Johns Hopkins][jh-reference], "Today, these incredible cells — nicknamed HeLa, from the first two letters of her first and last names — are used to study the effects of toxins, drugs, hormones and viruses. They have been used to test the effects of radiation and poisons, to study the human genome, and to learn more about how viruses work." To learn more, we encourage you to [get to know the woman][woman] behind the cells through accessing some of the many books, movies and articles that tell her story.
 

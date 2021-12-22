@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Sojourner Truth’s famous speech “Ain’t I A Woman?”"
 date: 2021-03-05 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/afro_american_flag.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1640146427/blm-stanford-archive/posts/sojourner-truth.jpg
 ---
 
 [Sojourner Truth][sojourner-truth], born Isabella Bomfree, was a preacher, abolitionist, women’s rights activist, and author, and was enslaved until she escaped to freedom in1827. As part of her <!--more--> activism, she traveled and spoke about her experiences as a Black woman and a slave. At the 1851 Women’s Rights Convention in Akron, Ohio, Truth gave one of her most famous speeches, [“Ain’t I A Woman?”][speech]. Two versions of the speech exist where she challenged the notions of gender and racial inequality and inferiority. Learn more about her legacy through a special exhibit at the [National Women’s History Museum][womens-museum] and the [Sojourner Truth African Heritage Museum][heritage-museum] in Sacramento.
