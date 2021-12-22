@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: President Barack Obama, the first Black president of the United States"
 date: 2021-02-12 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/afro_american_flag.jpg
+image: /img/afro_american_flag.jpg
 ---
 
 As we recognize Presidents Day on Monday, Feb. 15, take a moment to reflect on the significance of the 44th president and the first Black president of the United States. Beyond politics, President Obama’s [personal story][personal-story] is both unique <!--more--> and inspiring. President Obama’s father, Barack Sr., a Kenyan economist, met his mother, Stanley Ann Dunham, when both were students in Hawaii, where Barack was born on Aug. 4, 1961. President Obama worked to rebuild communities in Chicago, taught constitutional law, and was elected Illinois state senator, United States senator, and finally United States president on Nov. 4, 2008. One photo, which captures his importance to millions of Black children, was taken in 2009. [Learn more about the image and his legacy.][learn-more]

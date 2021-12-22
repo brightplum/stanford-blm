@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: 'Racelighting' manipulates others into questioning their mistreatment"
 date: 2021-06-04 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/gaslighting.jpg
+image: /img/gaslighting.jpg
 ---
 
 While gaslighting is a commonly referenced manipulation strategy of [emotional abuse][emotional-abuse], it does not take into account race. Recently, J. Luke Wood, PhD, and Frank Harris III, EdD, both of San Diego State University, coined the term “racelighting” <!--more--> to show the disproportionate impact that gaslighting has on Black, Indigenous, and other people of color (BIPOC). In the article [Racelighting: A Prevalent Version of Gaslighting Facing People of Color][racelighting], Wood and Harris define the term and offer historic and contemporary examples of racelighting, reminding readers how slave owners gave enslaved Africans heavily edited versions of the Bible to reinforce their bondage, and manipulated slaves into believing their destiny of submission was ordained by God. More recently, the responses to Colin Kaepernick kneeling in protest during football games is an example of racelighting that disregarded the systemic racial oppression Kaepernick was protesting, by amplifying the action of kneeling as unpatriotic and un-American. To learn more about how racelighting manifests in educational systems, view this [webinar][webinar]. [In this scholarly brief][scholarly-brief], the authors offer racelighting as one mechanism among many that must be understood to address how racism manifests in the daily, lived experiences of BIPOC. Microaggressions are the messages communicated by racelighters, which compound to undermine the common humanity of BIPOC.

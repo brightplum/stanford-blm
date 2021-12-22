@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: National Slavery and Human Trafficking Prevention Month"
 date: 2021-01-29 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/slavery_sign_protesters.jpg
+image: /img/slavery_sign_protesters.jpg
 ---
 
 January marks National Slavery and Human Trafficking Prevention Month. [According to the U.S. Department of State][state], it is estimated that over 24 million people worldwide, including in the <!--more--> United States, are living in a form of modern slavery or human trafficking. [According to the ACLU][aclu], modern slavery disproportionately impacts minority communities and those in lower income households, groups that often fall through the cracks of social safety nets. It is estimated that Black women and girls account for over 40% of all human trafficking victims, a serious issue that has gone under reported in recent years as Black girls continue to disappear. Modern human trafficking and slavery has taken on new forms, we cannot ignore the historical connection between race and slavery in this country. Learn more [about modern enslavement][enslavement] and [human trafficking][human-trafficking].

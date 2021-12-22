@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Six actions for health care systems to undo structural racism"
 date: 2020-08-21 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/doctor_and_patient.jpg
+image: /img/doctor_and_patient.jpg
 ---
 
 In a [recent article][recent-article] on racism, social risk factors and COVID-19, Leonard Egede, MD, and Rebekah Walker, PhD, from the Medical College of <!--more--> Wisconsin, argue that a concerted effort encompassing multiple sectors could change the fabric of structural racism and the social risk that leads to disparities in health. They offer a list of actions that health care systems and academic medical institutions and individuals can take to undo centures of structural racism including building cross-sector partnerships, remaining consist in efforts to build trust with communities, and embracing policies that increase economic empowerment.

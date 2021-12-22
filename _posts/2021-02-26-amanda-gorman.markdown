@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Amanda Gorman, inaugural National Youth Poet Laureate"
 date: 2021-02-26 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/child_and_dog.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1640143780/blm-stanford-archive/posts/amanda-gorman.jpg
 ---
 
 [Amanda Gorman][amanda-gorman] was the inaugural National Youth Poet Laureate in 2017 and read [“The Hill We Climb”][hill-we-climb] at President Joe Biden’s inauguration on Jan. 20, which went <!--more--> viral. In a [2017 New York Times profile piece][ny-times], Gorman said that she plans to run for president in 2036. She was born and raised in Los Angeles by a single mother and also has a twin sister. Gorman grew up with an auditory processing disorder and a speech impediment. In regard to her disability, she stated in an interview with the [Los Angeles Times][la-times]: “But I don’t look at my disability as a weakness. It’s made me the performer that I am and the storyteller that I strive to be. When you have to teach yourself how to say sounds, when you have to be highly concerned about pronunciation, it gives you a certain awareness of sonics, of the auditory experience.” Explore more of Amanda Gorman’s poetry with her upcoming books: "The Hill We Climb" and "Changes Sing: A Children’s Anthem".

@@ -4,7 +4,7 @@ title: "Black Lives Matter: Academic Medicine collection on addressing race and 
 date: 2020-09-25 12:00:00 -0500
 categories: home-latest
 excerpt_separator: <!--more-->
-image: img/doctor_and_patient.jpg
+image: /img/doctor_and_patient.jpg
 ---
 
 The journal Academic Medicine has developed resources for medical schools and teaching hospitals, their faculty and trainees, and the public to help dismantle racism. A [collection][collection] of previously <!--more--> published articles in the journal is now available and all articles are free to view and download. The collection was curated to help readers engage in necessary conversations about race and to inform strategies to eliminate structural racism in their institutions. [Learn more][learn-more]

@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Celebrating Kwanzaa"
 date: 2020-12-11 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/child_birthday.jpg
+image: /img/child_birthday.jpg
 ---
 
 In the coming weeks, many families around the country will recognize Kwanzaa, an annual celebration of African American culture, held from Dec. 26 to Jan. 1. Professor [Maulana Karenga][maulana-karenga], PhD, created Kwanzaa <!--more--> in 1966 during the aftermath of the [Watts Riots][watts-riots] to "give Blacks an alternative to the existing holiday and give Blacks an opportunity to celebrate themselves and their history, rather than simply imitate the practice of the dominant society." The Kwanzaa celebration often includes songs and dances, African drums, storytelling, poetry reading, and a large traditional meal. [Read more][read-more].

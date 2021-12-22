@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Beyond the White Coat"
 date: 2020-11-09 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/doctor_and_patient.jpg
+image: /img/doctor_and_patient.jpg
 ---
 
 This season of the [AAMC Beyond the White Coat podcast][aamc-podcast] focuses on taking a look at the long-standing systemic and institutional racism that Black Americans have faced when engaging <!--more--> with teaching hospitals, medical schools, and research programs. The episode features Lonnie G. Bunch III, secretary of the Smithsonian Institution and historian, who talks about how the history of racism in medical schools, clinical care, and research has impacted academic medicine’s relationship with the Black community, and what can be done to regain trust and become allies and partners in the community's health and wellness.

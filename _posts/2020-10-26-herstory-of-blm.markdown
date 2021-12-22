@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: A Herstory of the #BlackLivesMatter movement by Alicia Garza"
 date: 2020-10-26 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/afro_american_flag.jpg
+image: https://emu.edu/now/news/wp-content/uploads/sites/43/2020/02/Alicia-Garza-Feature-Image.jpg
 ---
 
 The three words Black Lives Matter have become ubiquitous not only on social media and in protests on the streets, but also in mainstream media news, political arenas, and beyond. In [A Herstory of the #BlackLivesMatter Movement by Alicia Garza][herstory], <!--more--> published in the Feminist Wire in 2014, BLM co-creator Alicia Garza discusses the early days of watching Black Lives Matter grow into a worldwide movement, and dissects the ways this phrase has been mis-appropriated and misunderstood. This is a particularly helpful article for individuals needing to educate friends, family, and colleagues on the importance of declaring that Black Lives Matter.

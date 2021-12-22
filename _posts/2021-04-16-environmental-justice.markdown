@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Environmental justice"
 date: 2021-04-16 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/farmer.jpg
+image: /img/farmer.jpg
 ---
 
 Environmental justice is the fair treatment and meaningful involvement of all people regardless of race, color, national origin, or income, with respect to the development, implementation, and enforcement <!--more--> of environmental laws, regulations, and policies. The environmental justice movement was started by [individuals][individuals], primarily people of color, who sought to address the inequity of environmental protection in their communities. They felt that, but for their race and economic status, their communities would not have been designated to host hazardous waste disposal facilities. Early on, most environmental actions were isolated in local communities. However, in the early 1980s. a small, predominately African American community in Warren County, North Carolina, mobilized a [massive protest][protest] against plans to host a hazardous waste landfill in their community. Over 500 environmentalists and civil rights activists were arrested and the protest was unsuccessful in halting construction. However, they recognized the power of building national coalitions and this event is widely understood to be the catalyst for the U.S. environmental justice movement, which seeks social justice and environmental protection for all communities.

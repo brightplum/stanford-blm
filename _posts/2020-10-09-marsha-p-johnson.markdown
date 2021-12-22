@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Marsha P. Johnson"
 date: 2020-10-09 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/black_queer_lives_matter.jpg
+image: https://www.theauthenticgay.com/wp-content/uploads/2020/06/marsha-p-johnson.jpg
 ---
 
 The [2020 LGBTQ+ Forum][lgbtq-forum] took place on Wednesday with the theme [intersectionality] (coined by [Kimberlé Williams Crenshaw, JD,][kimberle-crenshaw] a professor of law at UCLA and Columbia Law School). In honor of <!--more--> intersectionality, let’s consider the life of Marsha P. Johnson. A Black drag queen, Johnson was credited with a key role in the Stonewall uprising. An institute was formed in her honor to “create a crucial entry point for black trans women and gender non-conforming femmes…” [Learn more][learn-more] about Johnson and the [Marsha P. Johnson Institute][johnson-institute].

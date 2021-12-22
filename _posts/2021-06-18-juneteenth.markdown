@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Juneteenth"
 date: 2021-06-18 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: img/juneteenth_flag.png
+image: /img/juneteenth_flag.png
 ---
 
 [Juneteenth][juneteenth] commemorates the date of June 19, 1865, when federal troops arrived in Galveston Bay, Texas, to [enforce the emancipation][emancipation] of enslaved people in the state by executive decree. <!--more--> While the emancipation proclamation had taken effect on Jan. 1, 1863, declaring that those enslaved in the Confederate states were free, it could not be implemented in most places still under Confederate control. A substantial number of planters had moved to Texas, with an estimated [250,000 enslaved people in Texas as of 1865][texas]. The first official celebration occurred one year later on June 19, 1866, in Texas, and spread across the South. While the celebration waned during the civil rights struggles of the 1950s and 1960s, it regained prominence in the 1970s and became an [official Texas state holiday in 1980][official] In recent years, there has been increasing support to make Juneteenth, also known as Freedom Day or Emancipation Day, a federal holiday, as a true independence day for Black Americans. That came to fruition as Congress voted this week to pass [legislation][legislation] that was signed into law yesterday, June 17, by President Biden, declaring Juneteenth National Independence Day, a federal holiday commemorating the end of slavery in the U.S.
