@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Rebecca Lee Crumpler, first Black woman MD"
 date: 2021-02-19 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/doctor_and_patient.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1641304772/blm-stanford-archive/posts/Rebecca_Lee_Crumpler.jpg
 ---
 
 [Rebecca Lee Crumpler, MD][rebecca-crumpler], was the first Black woman in the United States to earn a medical degree. She earned her degree from the New England Female Medical College in Boston, Massachusetts, in 1864. While hostility toward Black physicians <!--more--> was common in the postwar South, she built a network to give care back to Black communities. As part of her work, Dr. Crumpler served to treat formerly enslaved people through the [Freedmen’s Bureau][freedmens-bureau]. Her legacy is documented in her authored book titled "A Book of Medical Discourses: In Two Parts", which details women’s and children’s health and shares her experiences as a Black woman physician. Learn more about [Dr. Crumpler][dr-crumpler] and other African-American medical pioneers from the [AAMC][aamc].

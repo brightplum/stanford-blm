@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: The Great Fire"
 date: 2020-10-30 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/historic_building.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1641304809/blm-stanford-archive/posts/The_Great_FIre.png
 ---
 
 In [The Great Fire][great-fire], a special project in Vanity Fair, journalists and editors tell the stories of Black artists and writers. The series features artwork, videos, and more. In one <!--more--> article, [This Moment - And What Came Before][moment], journalist Ava Duvernay <!--more--> interviews scholar and activist Angela Davis, who says: "diversity and inclusion without substantive change, without radical change, accomplishes nothing.”

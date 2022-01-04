@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: The Martin Luther King, Jr. Research and Education Institute"
 date: 2021-01-08 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/slavery_sign_protesters.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1641304766/blm-stanford-archive/posts/king-institute.jpg
 ---
 
 Stanford University is home to [The Martin Luther King, Jr. Research and Education Institute][mlk-institute]. The institute maintains and supports the King papers and resources and has created a <!--more--> Liberation Curriculum, which includes lesson plans and educational resources for students of all ages. [Clayborne Carson][clayborne-carson], PhD, professor of American history and director of the institute, was selected by Coretta Scott King in 1985 to edit and publish the papers of Martin Luther King, Jr.

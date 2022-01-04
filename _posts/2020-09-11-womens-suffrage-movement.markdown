@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: The racist history of the women's suffrage movement"
 date: 2020-09-11 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/afro_american_flag.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1641304784/blm-stanford-archive/posts/vanguard-book.jpg
 ---
 
 Last month marked the 100-year anniversary of the passage of the 19th Amendment, which granted some women the right to vote. The recently released book, <!--more--> Vanguard: How Black Women Broke Barriers, Won the Vote, and Insisted on Equality for All, explores the complicated history of Black women's rights to vote. [Listen to an interview][interview] with author Martha S. Jones, PhD, JD, professor of history at Johns Hopkins University. If you are looking for a quick read that explores this issue, we recommend [this article][article] on Black women's voting rights.

@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Kamala Harris, first African American and South Asian American woman Vice President of the United States"
 date: 2021-01-22 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/afro_american_flag.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1641302634/blm-stanford-archive/posts/kamala-harris.jpg
 ---
 
 Born and raised in Oakland, California, and sworn in this week, Kamala Harris is the first African-American and South Asian-American woman Vice President of the United States. Her path to this <!--more--> historical moment includes many early commitments to fighting injustice. As a child of immigrant and activist parents, [her early exposure][early-exposure] to community organized demonstrations for equality and civil rights influenced her career aspirations. [Her time at Howard University][howard-university] further refined her approach to working for social justice, and led her to choose a career as a prosecutor. As a nation and as an institution we are witnessing history. Let us take this moment to do the work to make Stanford an equitable and inclusive environment, where individuals with intersectional identities can thrive and go on to make their mark on the world.

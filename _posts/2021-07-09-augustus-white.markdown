@@ -2,7 +2,7 @@
 layout: post
 title: "Black Lives Matter: Augustus White, first African American Stanford medical school graduate"
 date: 2021-07-09 12:00:00 -0500
-image: /img/doctor_and_patient.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1641304808/blm-stanford-archive/posts/Augustus_White.jpg
 excerpt_separator: <!--more-->
 ---
 
