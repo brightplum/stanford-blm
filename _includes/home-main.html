@@ -7,7 +7,7 @@
                     <div class="post__thumb">
                         <div class="post__thumb-wrap">
                             <div class="background-img"
-                                style="background-image: url('/{{ post.image }}');">
+                                style="background-image: url('{{ post.image }}');">
                             </div>
                             <a class="link-overlay" href="{{ post.url }}"></a>
                         </div>
@@ -31,7 +31,7 @@
                 {% for post in site.posts reversed limit: 1 offset: 1 %}
                 <article class="post post--vertical post--vertical-reverse">
                     <div class="post__thumb">
-                        <div class="background-img" style="background-image: url('/{{ post.image }}');">
+                        <div class="background-img" style="background-image: url('{{ post.image }}');">
                         </div>
                         <a class="link-overlay" href="{{ post.url }}"></a>
                     </div>
