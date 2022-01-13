@@ -4,7 +4,7 @@ title: "Black Lives Matter: Is this justice?"
 date: 2021-04-23 12:00:00 -0500
 excerpt_separator: <!--more-->
 categories: home-latest
-image: /img/slavery_sign_protesters.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1642034527/blm-stanford-archive/posts/is-this-justice.jpg
 ---
 
 Against the backdrop of the trial of [George Floyd’s][george-floyd] killer that concluded with a conviction this week, we say the names of other young black men and women who were victims of police brutality: 20-year-old [Daunte Wright][daunte-wright], 13-year-old [Adam Toledo][adam-toledo], <!--more--> 16-year-old [Ma’Khia Bryant][makhia-bryant], and 40-year-old [Andrew Brown Jr.][andrew-brown], among over [181 other Black people killed by police since George Floyd’s murder last May.][181-killed]We say their names to lift up their grieving families and to honor their memories. We believe that true justice is accountability. We call on our Stanford Medicine community to remain steadfast in its stance to face and dismantle processes that systemically lead to discrimination because of race. Justice requires reforming systems that have enabled harm to innocent people. While this week’s verdict provides some hope, racism is still here. In [the words of poet adrienne maree brown’][adrienne-brown]s poem, "this is not justice, this is respite": “in the next breath world/ they would all be alive today/ and the presence of that absence/ cast a blur across the headlines.”

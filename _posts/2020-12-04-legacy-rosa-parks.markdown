@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: The Legacy of Rosa Parks"
 date: 2020-12-04 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/slavery_sign_protesters.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1642034399/blm-stanford-archive/posts/rosa-parks.jpg
 ---
 
 65 years ago, on Dec. 1, 1955, [Rosa Parks][rosa-parks] refused to give up her seat on a segregated public bus to a white passenger. She was arrested and a 381-day boycott of the <!--more--> Montgomery bus system ensued, organized by the Reverend Dr. Martin Luther King Jr. The boycott led to the desegregation of public transportation through a Supreme Court ruling, and was pivotal to the eventual passage of the Civil Rights Act of 1964 and Voting Rights act of 1965. As we reflect on the implications of the past on where we are today, we find that: [“The constant factor driving the change toward equality [is] focused protest.”][protest]

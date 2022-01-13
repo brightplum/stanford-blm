@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Solidarity between Black and Asian communities"
 date: 2021-04-02 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/protesting_doctor.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1642034596/blm-stanford-archive/posts/black-asian-solidarity.jpg
 ---
 
 [Grace Lee Boggs][grace-boggs], daughter of Chinese immigrants, was an activist involved in the Black power movement in Detroit with her husband and Black autoworker, James Boggs. According to NPR.org, together, they transformed the city of Detroit <!--more--> by taking on civil and labor rights. As movement activists, environmentalists and philosophers, their lifelong pursuit was to help grassroots activists develop themselves into visionary leaders and critical thinkers. Through her work, Grace formed a [deep friendship][deep-friendship] with Malcolm X and he would stay at the Boggs' family home during his visits to Detroit. They shared in the fight against racism, the Vietnam War, and imperialism. She also worked with Dr. Martin Luther King Jr. when he organized in Detroit. Grace helped found the Detroit Asian Political Alliance, the National Organization for an American Revolution, and [Detroit Summer][detroit-summer]. After James' death in 1993, the [Boggs Center to Nurture Community Leadership][boggs-center] was founded to honor and continue Grace and James’ legacy. The lifelong partnership between Grace and James is one of the most noted examples of solidarity between the Black and Asian communities.

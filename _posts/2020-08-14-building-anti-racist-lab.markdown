@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Ten simple rules for building an anti-racist lab"
 date: 2020-08-14 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/gaslighting.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1642034122/blm-stanford-archive/posts/anti-racist-lab.jpg
 ---
 
 In the paper, [Ten simple rules for building an anti-racist lab][ten-rules], authors, [V. Bala Chaudhary][chaudhary] and [Asmeret Asefaw Berhe][berhe] address <!--more--> how to build and maintain a lab environment that is anti-racist and inclusive of all Black, Indigenous, and people of color (BIPOC). They note that, "building a lab that is anti-racist is very different from building a lab that simply avoids racism," and that intentional recruitment and amplifying voices of BIPOC are key elements for fostering anti-racism within indiviudal and among separate research communitites. The authors discussed this work in [an interview with KQED][interiew-kqed] on July 13, 2020.

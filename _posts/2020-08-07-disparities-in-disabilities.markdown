@@ -3,7 +3,7 @@ layout: post
 title: "Black Lives Matter: Research on disparities in disabilities"
 date: 2020-08-07 12:00:00 -0500
 excerpt_separator: <!--more-->
-image: /img/disabled.jpg
+image: https://res.cloudinary.com/brightplum/image/upload/v1642034063/blm-stanford-archive/posts/disparity-disability.jpg
 ---
 
 As we celebrate the 30th anniversary of the Americans with Disabilities Act, it is worth noting that Black people have more than 1.5 times the odds of <!--more--> disabilities in later life than white people. There is a lack of research to explain these disparities, which exist throughout the lifespan. A 2011 study, [Black-White Differences in Self-Reported Disability Outcomes in the U.S.: Early Childhood to Older Adulthood][disparity-study], points to the need to identify factors in early life that account for these disparities by using data from nearly 3 million participants in the 2006 American Community Survey.
